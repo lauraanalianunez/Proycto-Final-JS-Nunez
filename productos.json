@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "tipo": "shonen",
+        "nombre": "Naruto",
+        "precio": 950,
+        "imagen": "https://pm1.narvii.com/6879/336a2c821c46b7df90c53327437830188845d583r1-760-1200v2_hq.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "shonen",
+        "nombre": "Naruto Shippuden 70",
+        "precio": 950,
+        "imagen": "https://ramenparados.com/wp-content/uploads/2015/09/portada_naruto-n-70_masashi-kishimoto_2015082513321-300x452.jpg"
+    },
+    {
+        "id": 3,
+        "tipo": "shonen",
+        "nombre": "Naruto Shippuden 43",
+        "precio": 950,
+        "imagen": "https://i.pinimg.com/originals/9e/73/ac/9e73ac0c1fb1c9d68f79f839c5d654ec.jpg"
+    },
+    {
+        "id": 4,
+        "tipo": "shonen",
+        "nombre": "Boruto",
+        "precio": 950,
+        "imagen": "https://infoliteraria.com/wp-content/uploads/2018/05/boruto-manga-615x1024.jpg"
+    },
+    {
+        "id": 5,
+        "tipo": "shonen",
+        "nombre": "My Hero Academy",
+        "precio": 950,
+        "imagen": "https://ramenparados.com/wp-content/uploads/2016/07/my-hero-academia-1-ESP-300x473.jpg"
+    },
+    {
+        "id": 6,
+        "tipo": "shonen",
+        "nombre": "One Piece",
+        "precio": 950,
+        "imagen": "https://static2planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/323/original/portada_one-piece-n-95_eiichiro-oda_202102021554.jpg"
+    },
+    {
+        "id": 7,
+        "tipo": "shonen",
+        "nombre": "Dragon Ball",
+        "precio": 950,
+        "imagen": "https://tap-multimedia-1172.nyc3.digitaloceanspaces.com/productimage/8369/9788416243686.jpg"
+    },    
+    {
+        "id": 8,
+        "tipo": "shonen",
+        "nombre": "Damon Slayer",
+        "precio": 950,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_921347-MLA43990807228_112020-O.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "shonen",
+        "nombre": "Attack On Titan",
+        "precio": 950,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_626503-MLA48776274325_012022-V.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "shonen",
+        "nombre": "Los Siete Pecados Capitales",
+        "precio": 950,
+        "imagen": "https://www.tonica.la/export/sites/debate/img/2020/02/18/todos_los_pecados.png_86936018.png"
+    },
+    {
+        "id": 11,
+        "tipo": "shonen",
+        "nombre": "Bleach",
+        "precio": 950,
+        "imagen": "https://ramenparados.com/wp-content/uploads/2017/12/bleach-74.jpg"
+    },
+    {
+        "id": 12,
+        "tipo": "shonen",
+        "nombre": "Blue Exorcist",
+        "precio": 950,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_824138-MLA47724313421_102021-O.jpg"
+    },
+    {
+        "id": 13,
+        "tipo": "deportivo",
+        "nombre": "The Prince of Tennis",
+        "precio": 950,
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81uKzmgSZsL.jpg"
+    },
+    {
+        "id": 14,
+        "tipo": "deportivo",
+        "nombre": "Haikyu",
+        "precio": 950,
+        "imagen": "https://www.planetadelibros.com/usuaris/libros/fotos/335/m_libros/portada_haikyu-n-01__202105311344.jpg"
+    },
+    {
+        "id": 15,
+        "tipo": "deportivo",
+        "nombre": "Kuroko No Basket",
+        "precio": 950,
+        "imagen": "https://ramenparados.com/wp-content/uploads/2015/09/kurokonobasket011-300x444.jpg"
+    },
+    {
+        "id": 16,
+        "tipo": "deportivo",
+        "nombre": "Capitan Tsubasa",
+        "precio": 950,
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81TFN77TNWL.jpg"
+    }   
+]
