@@ -3,9 +3,10 @@ async function cargarProductos(){
     let productosJSON = await promesa.json()
     return productosJSON    
 }
+
 let cargarHTML = (arrayTipo) => {
     divProductos.innerHTML = "";
-    arrayTipo.forEach((p) => {s
+    arrayTipo.forEach((p) => {
         divProductos.innerHTML += `
             <div id="producto${p.id}" class="card card-producto mt-2 col-md-3" >
                     <img src="${p.imagen}" class="card-img-top mt-2"  alt="...">

@@ -15,9 +15,10 @@ productos.then(data => {
     });
    
    filtrado(shonen,data)
-   filtrado(deportivo,data)        
+   filtrado(deportivo,data)
+        
 })
-
+ 
 buttonCarrito.addEventListener('click', () => {
     let totalCarrito = 0
     divCarrito.innerHTML = "";
@@ -44,7 +45,6 @@ buttonCarrito.addEventListener('click', () => {
 
         }
     })
-
     totalCarrito > 0 ? divCarrito.innerHTML += `<p> El precio total es: ${totalCarrito}</p>` : divCarrito.innerHTML="Su carro está vacío";
 
     eliminarProductos(compras, totalCarrito);
